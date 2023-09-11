@@ -4,6 +4,10 @@ table {
   margin-top: 32px;
 }
 
+table th {
+  background-color: #a9ceec;
+}
+
 table th,
 table td {
   border: solid 1px black;
